@@ -1,0 +1,54 @@
+"So, Python? Ohh… not again.
+Wait—yeah, this one.
+You clicked this video to learn Python, right? Then welcome to our fresh Python course by 2bh! Let’s kick things off with a proper introduction to Python."
+
+[Introduction to Python]
+"Whether you're just starting your coding journey or planning to build real-world projects, Python is the perfect language to begin with.
+It’s a high-level, interpreted, flexible, and beginner-friendly programming language used in fields like:
+
+- Artificial Intelligence & Machine Learning
+
+- Game Development
+
+- Web Development
+
+- Data Science, and much more.
+
+Python is loved by beginners for its simple syntax and by professionals for its huge community and powerful libraries.
+It was created by Guido van Rossum and released on February 20, 1991. 
+And yes — since it’s a high-level, interpreted language, it runs slower than low-level languages like C or C++. But that’s not a deal-breaker
+
+[The Big Question: Why Python if it's Slow?]
+Now you might be thinking — "If Python is so slow, why even use it?"
+Well, here's why:
+
+Despite being slower, Python makes development faster and easier because of:
+
+- Easy-to-read, clean syntax
+
+- Tons of libraries for almost anything
+
+A massive collection of libraries like:
+
+- Pygame – for game dev
+
+- Docker – for building and deploying
+
+- Django & Flask – for web apps
+
+- NumPy & Pandas – for data analysis
+
+- TensorFlow & PyTorch – for training machine learning models
+So yeah, it’s slow… but it saves you hours of coding.
+
+[Why Python Over Other Languages?]
+"There are so many programming languages out there — C, C++, Java, JavaScript, even Assembly.
+
+But Python? It’s the king of simplicity.
+
+What takes 6 lines in C++, takes 1 line in Python — and the result is the same.
+Sure, Python is a bit slower, but for most projects, that tradeoff is totally worth it.
+
+[Closing & CTA]
+"So, in this course, we’ll go from zero to real-world projects, all explained in a simple, fun, and practical way.
+Make sure to like, subscribe, and follow along — because this is just the beginning of your Python journey with 2bh!"
