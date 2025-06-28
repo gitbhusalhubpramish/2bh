@@ -1,0 +1,13 @@
+img source:-
+	Python logo by Python Software Foundation, via Wikimedia Commons, licensed under CC BY-SA 3.0
+	C++ Icon by Freepik from Flaticon (https://www.flaticon.com), used under CC 3.0 attribution
+	C Icons by https://icons8.com/ (downloaded from https://icons8.com/icon/40670/c-programming)
+	Django logo © Django Software Foundation, used under trademark license.
+	assembly icon by https://icons8.com/ from https://icons8.com/icon/gVK745a4Vaur/assembly
+	flask icon by https://icons8.com/ from https://icons8.com/icon/MHcMYTljfKOr/flask
+	javascript icon by https://icons8.com/ from https://icons8.com/icon/108784/javascript
+	java icon by https://icons8.com/ from https://icons8.com/icon/13679/java
+	numpy icon by https://icons8.com/ from https://icons8.com/icon/aR9CXyMagKIS/numpy
+	pandas icon by https://icons8.com/ from https://icons8.com/icon/xSkewUSqtErH/pandas
+	pytorch icon by https://icons8.com/ from https://icons8.com/icon/jH4BpkMnRrU5/pytorch
+	Photo of Guido van Rossum by Wikimedia Commons, licensed under CCBY?SA3.0 (https://creativecommons.org/licenses/by?sa/3.0)
